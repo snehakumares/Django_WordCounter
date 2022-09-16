@@ -21,3 +21,9 @@
   py -m pip install Django
 ```
 5. Download the code and copy it inside the folder 'project-name'
+
+## Run the project
+```sh
+cd word_counter
+py manage.py runserver
+```
