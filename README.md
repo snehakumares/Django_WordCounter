@@ -1,13 +1,13 @@
-### Django_WordCounter
+# Word Counter
 
-# Word counter using Django
+### Word counter using Django
 
 ## Requirements
 Python
 PIP
 
 ## Setup 
-1. Create a folder <folder> 
+1. Create a folder 'project-name' 
 2. Create virtual environment
 ```sh
    py -m venv <venv-name>
@@ -20,4 +20,4 @@ PIP
 ```sh
   py -m pip install Django
 ```
-5. Download the code and copy it inside the <folder>
+5. Download the code and copy it inside the folder 'project-name'
