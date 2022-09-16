@@ -3,8 +3,8 @@
 ### Word counter using Django
 
 ## Requirements
-Python
-PIP
+1. Python
+2. PIP
 
 ## Setup 
 1. Create a folder 'project-name' 
