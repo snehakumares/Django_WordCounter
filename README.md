@@ -1,6 +1,6 @@
 # Word Counter
 
-### Word counter using Django
+### Blog Backend using django
 
 ## Requirements
 1. Python
